@@ -1,5 +1,2 @@
-<<<<<<< HEAD
  "Feature 1 work begins here"
-=======
  Feature 2 work starts now
->>>>>>> branch2
